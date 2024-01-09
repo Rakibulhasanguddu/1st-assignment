@@ -72,6 +72,13 @@
                     background-image: url("resources/Vectorrr.png");
                     width: 1320px;
                     height: 600px;
+                    display: flex;
+                }
+                .year2024{
+                    margin-top: 65px;
+                    margin-left: 150px;
+                
+
                 }
                 .welcome{
                    background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
