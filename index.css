@@ -1,3 +1,43 @@
-h1{
-    color: crimson;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Merriweather', serif;
+}
+                   /* header start */
+.header{
+    background-image: url("resources/Banner\ Image.png");
+    height: 600px;
+    width: 1600px;
+    background-repeat: no-repeat;
+
+}
+.header-head{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+}
+
+.container{
+    width: 70%;
+    max-width: 1600px;
+   margin: 50px auto;
+  
+
+
+}
+.header-dicript{
+   color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 200px;
+    padding-bottom: 0px;
+    
+}
+
+.header-title{
+   color: white;
+    text-align: center;
+    font-size: 70px;
+  margin-left: 150px;
+   width: 630px;
 }
